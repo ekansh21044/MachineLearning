@@ -3,7 +3,6 @@
 >[`Contributors:`]
 - [Aryan Rohilla](https://github.com/Blazzzze)
 - [Ekansh](https://github.com/ekansh21044)
-- [Avinash Barala](https://github.com/Avinash-21028)
 
 >`Purpose:` Course Project at [IIITD](https://www.iiitd.ac.in/)
 
